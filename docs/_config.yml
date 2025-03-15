@@ -21,7 +21,7 @@
 title: Jigyasa
 email: Team EMMET
 description: >- # this means to ignore newlines until "baseurl:"
-  Jigyasa is an indigenously developed Web Browser.
+  Jigyasa is an indigenously developed Web Browser developed by Team EMMET.
 baseurl: /jigyasa
 url: https://05Tushar.github.io
 # twitter_username: jekyllrb
