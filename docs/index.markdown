@@ -5,9 +5,32 @@
 layout: home
 title: Jigyasa
 ---
+Safe and fast web browser, spiced with indigenous ideas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Multi Platform Support
+![Multi OS](/jigyasa/assets/os.png)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Built For Everyone With Special Focus on Accessibility
+* ### Support for OpenDyslexic Font
+![dyslexic](/jigyasa/assets/dyslexic.png)
+* Read aloud mode for people with visual impairments
 
-![Shinchan](/jigyasa/assets/shinchan.jpg)
+## Features
+### Webpage Summariser
+![summariser](/jigyasa/assets/summariser.png)
+
+### AI Chatbot
+![ai_chatbot](/jigyasa/assets/chatbot.png)
+
+### Adult Content Filter
+![adult_content_filter](/jigyasa/assets/adult_content_filter.png)
+
+### Exam Mode
+![exam_mode](/jigyasa/assets/exam_mode.png)
+
+### Other features:
+* Digital signing of PDFs
+* QR Scanner
+* Note taking capability
+* Ad blocking
+* Support for CCA India root certificate
