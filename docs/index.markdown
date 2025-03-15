@@ -34,3 +34,6 @@ Safe and fast web browser, spiced with indigenous ideas.
 * Note taking capability
 * Ad blocking
 * Support for CCA India root certificate
+
+# Releases
+Find the latest releases on [Github](https://github.com/abhineet99/jigyasa-installer/releases)
