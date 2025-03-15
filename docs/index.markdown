@@ -5,7 +5,7 @@
 layout: home
 title: Jigyasa
 ---
-Safe and fast web browser, spiced with indigenous ideas.
+### Safe and fast web browser, spiced with indigenous ideas.
 
 ## Multi Platform Support
 ![Multi OS](/jigyasa/assets/os.png)
@@ -35,5 +35,8 @@ Safe and fast web browser, spiced with indigenous ideas.
 * Ad blocking
 * Support for CCA India root certificate
 
+# Documentation
+Detailed documentation can be found [here](https://docs.google.com/document/d/13AsnUD5-PDLNJGLFIRSUThrLQIy1gHN0/edit).
+
 # Releases
-Find the latest releases on [Github](https://github.com/abhineet99/jigyasa-installer/releases)
+Find the latest releases on [Github](https://github.com/abhineet99/jigyasa-installer/releases).

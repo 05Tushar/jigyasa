@@ -21,7 +21,7 @@
 title: Jigyasa
 email: Jagdeep@sliet.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Jigyasa is an indigenously developed Web Browser developed by Team EMMET.
+  Jigyasa is an indigenously developed Web Browser developed by Team EMMET as part of the Indian Web Browser Development Challenge (IWBDC).
 baseurl: /jigyasa
 url: https://05Tushar.github.io
 # twitter_username: jekyllrb
